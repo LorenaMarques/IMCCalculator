@@ -22,11 +22,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/edittext_peso"
-        android:layout_marginTop="16dp"/>
+        android:layout_marginTop="18dp"/>
 
     <Button
         android:id="@+id/btnCalcular"
-        android:text="calcular"
+        android:text="CALCULAR"
         android:layout_centerHorizontal="true"
         android:layout_alignParentBottom="true"
         android:layout_width="match_parent"
